@@ -1,0 +1,46 @@
+body {
+    background-color :  #030a2e ;
+    border-left : 45px solid #036682;
+    border-right : 45px solid #036682;
+    color : white;
+    text-align : center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+h1 {
+    margin:auto;
+    font-size: 50px;
+    
+}
+
+h2  {
+    margin: 30px 20px;
+    font-size: 30px;
+}
+
+p {
+    margin: auto;
+    width: 70%;
+    padding: 45px;
+
+
+   
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#sub {
+    background-color: #6e0726 ;
+    border-radius: 100px  ;
+    color: white;
+    height: 60px;
+    width: 140px;
+    margin-top: 30px;
+}
+form {
+    width: 40%;
+    margin :  auto;
+    
+}
